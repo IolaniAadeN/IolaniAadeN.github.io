@@ -1,3 +1,5 @@
-# IolaniAadeN.github.io
+# Aaden's Student Site
 
-ive fallen and i cant get up
+This is a coded static website created as part of an in-class exercise during my summer Web Design Studio class
+
+[View my Site](https://IolaniAadeN.github.io)
